@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "@emotion/styled";
-import { Box, Button, Container } from "@mui/material";
+import { Box, Button } from "@mui/material";
 import { NavLink } from "react-router-dom";
 import MainLogo from "./../../assets/images/Sun-Fusion-Organization.jpeg";
 
@@ -13,7 +13,6 @@ const TopBar = styled.div`
   top: 0;
   left: 0;
   right: 0;
-  margin-bottom: 5rem;
 `;
 
 const TopBarContainer = styled.div`
@@ -50,7 +49,7 @@ const Layout: React.FC<ILayout> = ({ children }) => {
           </Button>
         </TopBarContainer>
       </TopBar>
-      <Box mt={8}>{children}</Box>
+      <Box mt={14}>{children}</Box>
     </>
   );
 };
