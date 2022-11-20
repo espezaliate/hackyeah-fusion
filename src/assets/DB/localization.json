@@ -1,0 +1,2382 @@
+{
+  "Companies": [
+    {
+      "Name": "Agni Fusion Energy",
+      "Type": "Private Company",
+      "Approaches": "Accelerator",
+      "Location": "Olympia Washington USA"
+    },
+    {
+      "Name": "Avalanche Energy",
+      "Type": "Private Company",
+      "Location": "Seattle Washington USA"
+    },
+    {
+      "Name": "Breakthrough Fusion International",
+      "Type": "Private Company",
+      "Approaches": "PJMIF (Plasma Jet Magneto Inertial Fusion)",
+      "Location": "Haymarket Virginia USA"
+    },
+    {
+      "Name": "CTFusion",
+      "Type": "Private Company",
+      "Projects": "HIT-SIU",
+      "Approaches": "Spheromak",
+      "Location": "Seattle Washington USA"
+    },
+    {
+      "Name": "Commonwealth Fusion Systems",
+      "Type": "Private Company",
+      "Projects": "SPARC",
+      "Approaches": "Tokamak",
+      "Location": "Cambridge Massachusetts USA"
+    },
+    {
+      "Name": "Compact Fusion Systems",
+      "Type": "Private Company",
+      "Projects": "Compact Fusion Systems Prototype",
+      "Approaches": "Liquid Liner Compressor",
+      "Location": "Santa Fe New Mexico USA"
+    },
+    {
+      "Name": "EMC2",
+      "Type": "Private Company",
+      "Projects": "The Polywell",
+      "Approaches": "Polywell",
+      "Location": "USA"
+    },
+    {
+      "Name": "ENN Energy Research Institute",
+      "Type": "Public Company",
+      "Projects": "EST50\nEFRC-0",
+      "Approaches": "Field Reversed Configuration (FRC)\nSpherical Tokamak",
+      "Location": "Langfang Hebei China"
+    },
+    {
+      "Name": "First Light Fusion",
+      "Type": "Private Company",
+      "Projects": "First Light Machine 3",
+      "Approaches": "Impact Inertial Confinement",
+      "Location": "Yarnton UK"
+    },
+    {
+      "Name": "Fuse Energy Technologies",
+      "Type": "Private Company",
+      "Location": "Montreal Quebec Canada"
+    },
+    {
+      "Name": "Fusion Reactors",
+      "Type": "Private Company",
+      "Approaches": "Magnetic Confinement Fusion",
+      "Location": "Oxfordshire UK"
+    },
+    {
+      "Name": "General Atomics",
+      "Type": "Private Company",
+      "Projects": "DIII-D\nOctopole",
+      "Approaches": "Tokamak",
+      "Location": "San DiegoCalifornia USA"
+    },
+    {
+      "Name": "General Fusion",
+      "Type": "Private Company",
+      "Projects": "MRT (Magnetized Ring Test)\nPI-1 (Plasma Injector)\nPI-2 (Plasma Injector)\nSPECTOR\nPI-3 (Plasma Injector)\nPCS\nSWC\nMini-Sphere",
+      "Approaches": "Liquid Liner Compressor",
+      "Location": "Burnaby, British Columbia, Canada"
+    },
+    {
+      "Name": "HB11",
+      "Type": "Private Company",
+      "Approaches": "Laser Boron Fusion",
+      "Location": "Sydney, New South Wales, Australia"
+    },
+    {
+      "Name": "Helicity Space",
+      "Type": "Private Company",
+      "Approaches": "Merging Plasma Plectonemes",
+      "Location": "Berkeley, California, USA"
+    },
+    {
+      "Name": "Helion Energy",
+      "Type": "Private Company",
+      "Projects": "Venti\nFEP (Fusion Engine Prototype)\nIPA (Inductive Plasma Accelerator)",
+      "Approaches": "Field Reversed Configuration (FRC)",
+      "Location": "Redmond, Washington, USA"
+    },
+    {
+      "Name": "Hope Innovations Inc.",
+      "Type": "Private Company",
+      "Location": "Mississauga, Ontario, Canada"
+    },
+    {
+      "Name": "Horne Technologies",
+      "Type": "Private Company",
+      "Projects": "Icarus",
+      "Approaches": "Hybrid Inertial Electrostatic/Magnetic Confinement",
+      "Location": "Longmont, Colorado, USA"
+    },
+    {
+      "Name": "Hyperjet Fusion",
+      "Type": "Private Company",
+      "Projects": "PLX-α",
+      "Approaches": "PJMIF (Plasma Jet Magneto Inertial Fusion)",
+      "Location": "Chantilly, Virginia, USA"
+    },
+    {
+      "Name": "Innoven Energy",
+      "Type": "Private Company",
+      "Approaches": "Laser Inertial Confinement Fusion",
+      "Location": "Colorado Springs, Colorado, USA"
+    },
+    {
+      "Name": "LPP Fusion",
+      "Type": "Private Company",
+      "Approaches": "Dense Plasma Focus",
+      "Location": "Middlesex, New Jersey, USA"
+    },
+    {
+      "Name": "Lockheed Martin Skunk Works",
+      "Type": "Public Company",
+      "Projects": "CFR (Compact Fusion Reactor)\nT5",
+      "Location": "California,USA"
+    },
+    {
+      "Name": "MIFTI",
+      "Type": "Private Company",
+      "Projects": "Staged Z-pinch on Zebra Driver",
+      "Approaches": "Staged Z-pinch",
+      "Location": "Tustin, California, USA"
+    },
+    {
+      "Name": "Marvel Fusion",
+      "Type": "Private Company",
+      "Approaches": "Laser Inertial Confinement Fusion",
+      "Location": "Munich, Bavaria, Germany"
+    },
+    {
+      "Name": "Princeton Fusion Systems",
+      "Type": "Private Company",
+      "Projects": "PFRC-2\nPFRC-1\nPFRC-3",
+      "Approaches": "Field Reversed Configuration (FRC)",
+      "Location": "Princeton, New Jersey, USA"
+    },
+    {
+      "Name": "Proton Scientific Technologies",
+      "Type": "Private Company",
+      "Approaches": "Electron Beam Intertial",
+      "Location": "Oak RidgeTennesseeUSA"
+    },
+    {
+      "Name": "Renaissance Fusion",
+      "Type": "Private Company",
+      "Approaches": "Stellarator",
+      "Location": "GrenobleFrance"
+    },
+    {
+      "Name": "TAE Technologies",
+      "Type": "Private Company",
+      "Projects": "C-2W (Norman)\nC-2\nC-2U\nCBFR-SPS (Colliding Beam Fusion Reactor Space Propulsion System)\nA\nB\nC-1",
+      "Approaches": "Field Reversed Configuration (FRC)",
+      "Location": "Foothill RanchCaliforniaUSA"
+    },
+    {
+      "Name": "Tokamak Energy",
+      "Type": "Private Company",
+      "Projects": "ST40\nST25\nST25 HTS",
+      "Approaches": "Spherical Tokamak",
+      "Location": "AbingdonUK"
+    },
+    {
+      "Name": "Type One Energy",
+      "Type": "Private Company",
+      "Approaches": "Stellarator",
+      "Location": "MadisonWisconsinUSA"
+    },
+    {
+      "Name": "Zap Energy Inc.",
+      "Type": "Private Company",
+      "Approaches": "Z Pinch",
+      "Location": "SeattleWashingtonUSA"
+    }
+  ],
+  "Research orgranization": [
+    {
+      "Name": "Austrian Academy of Sciences",
+      "Type": "National Laboratory",
+      "Location": "ViennaAustria"
+    },
+    {
+      "Name": "Budker Institute of Nuclear Physics",
+      "Type": "National Laboratory",
+      "Projects": "GDT Device at Budker Institute of Nuclear Physics\nGOL-3\nGlobus-M2",
+      "Location": "AkademgorodokNovosibirskRussia"
+    },
+    {
+      "Name": "Bulgarian Academy of Sciences, Institute of Nuclear Research and Nuclear Energy",
+      "Type": "National Laboratory",
+      "Location": "SofiaBulgaria"
+    },
+    {
+      "Name": "CCFE (Culham Centre for Fusion Energy)",
+      "Type": "National Laboratory",
+      "Projects": "JET (Joint European Torus)\nSTART (Small Tight Aspect Ratio Tokamak)\nMAST (Mega Ampere Spherical Tokamak)\nMAST-U (Mega Ampere Spherical Tokamak Upgrade)\nCOMPASS-D\nSTEP\nCOMPASS-C\nHBTX-1\nHBTX-1A\nHBTX-1B\nHBTX-1C\nTOSCA\nProto-CLEO",
+      "Location": "CulhamOxfordshireUnited Kingdom"
+    },
+    {
+      "Name": "CEA (Commissariat à l’Energie Atomique)",
+      "Type": "National Laboratory",
+      "Projects": "TFR\nLMJ (Megajoule Laser facility)",
+      "Location": "Fontenay-aux-RosesFrance"
+    },
+    {
+      "Name": "CIEMAT (Energéticas, Medioambientales y Tecnológicas)",
+      "Type": "National Laboratory",
+      "Projects": "TJ-I\nTJ-II",
+      "Location": "MadridSpain"
+    },
+    {
+      "Name": "California Institute of Technology",
+      "Type": "University",
+      "Projects": "Caltech Spheromak Experiment",
+      "Location": "PasadenaCaliforniaUSA"
+    },
+    {
+      "Name": "Colorado School of Mines",
+      "Type": "University",
+      "Location": "GoldenColoradoUSA"
+    },
+    {
+      "Name": "Comenius University, Department of Experimental Physics",
+      "Type": "University",
+      "Location": "BratislavaSlovakia"
+    },
+    {
+      "Name": "Consorzio RFX",
+      "Type": "Consortium",
+      "Projects": "RFX-mod2\nRFX-mod\nETA-BETA I\nETA-BETA II",
+      "Location": "Italy"
+    },
+    {
+      "Name": "Cornell University",
+      "Type": "University",
+      "Projects": "COBRA",
+      "Location": "IthacaNew YorkUSA"
+    },
+    {
+      "Name": "Costa Rica Institute of Technology",
+      "Type": "University",
+      "Projects": "MEDUSA-CR\nSCR-1\nFUSOR-CR",
+      "Location": "Costa Rica"
+    },
+    {
+      "Name": "DTU (Technical University of Denmark)",
+      "Type": "University",
+      "Projects": "North Tokamak",
+      "Location": "Kongens LyngbyLyngby-Taarbæk KommuneDenmark"
+    },
+    {
+      "Name": "Dublin City University, Plasma Research Laboratory",
+      "Type": "National Laboratory",
+      "Location": "DublinIreland"
+    },
+    {
+      "Name": "Dutch Institute for Fundamental Energy Research",
+      "Type": "National Laboratory",
+      "Projects": "Magnum-PSI",
+      "Location": "UtrechtNetherlands"
+    },
+    {
+      "Name": "ENEA (Italian National Agency for New Technologies, Energy, and Sustainable Economic Development)",
+      "Type": "National Laboratory",
+      "Projects": "FTU (Frascati Tokamak Upgrade)",
+      "Location": "RomeItaly"
+    },
+    {
+      "Name": "EPFL (École polytechnique fédérale de Lausanne)",
+      "Type": "University",
+      "Projects": "TCV (Tokamak à configuration variable)",
+      "Location": "ÉcublensVaudSwitzerland"
+    },
+    {
+      "Name": "EUROfusion",
+      "Type": "Consortium"
+    },
+    {
+      "Name": "Ecole Polytechnique",
+      "Type": "University",
+      "Projects": "LULI (Le Laboratoire pour l'utilisation des lasers intenses)",
+      "Location": "ParisFrance"
+    },
+    {
+      "Name": "Ecole Royale Militaire-Koninklijke Militaire School",
+      "Type": "University",
+      "Location": "BrusselsBelgium"
+    },
+    {
+      "Name": "F4E (Fusion for Energy)",
+      "Type": "Consortium",
+      "Location": "BarcelonaSpain"
+    },
+    {
+      "Name": "Forschungszentrum Jülich",
+      "Type": "National Laboratory",
+      "Projects": "TEXTOR (Tokamak EXperiment for Technology Oriented Research)",
+      "Location": "JülichKreis Düren, RheinlandGermany"
+    },
+    {
+      "Name": "French Alternative Energies and Atomic Energy Commission",
+      "Type": "National Laboratory",
+      "Projects": "Tore Supra\nWEST",
+      "Location": "CadaracheBouches-du-RhôneFrance"
+    },
+    {
+      "Name": "Hefei Institutes of Physical Science of the Chinese Academy of Sciences",
+      "Type": "National Laboratory",
+      "Projects": "EAST\nCFETR (China Fusion Engineering Test Reactor)\nHT-7",
+      "Location": "HefeiAnhuiChina"
+    },
+    {
+      "Name": "Huazhong University of Science and Technology",
+      "Type": "University",
+      "Projects": "HFRC (HUST FRC)\nJ-TEXT",
+      "Location": "WuhanHubeiChina"
+    },
+    {
+      "Name": "Hungarian Academy of Sciences, Wigner Research Centre for Physics",
+      "Type": "National Laboratory",
+      "Location": "BudapestHungary"
+    },
+    {
+      "Name": "IAEA (International Atomic Energy Agency)",
+      "Type": "Consortium",
+      "Location": "Austria"
+    },
+    {
+      "Name": "IFA (Institutul de Fizică Atomică)",
+      "Type": "National Laboratory",
+      "Location": "MăgureleRomania"
+    },
+    {
+      "Name": "IFERC (International Fusion Energy Research Centre)",
+      "Type": "Consortium",
+      "Location": "Japan"
+    },
+    {
+      "Name": "IFP (Intstitue of Fluid Physics)",
+      "Type": "National Laboratory",
+      "Projects": "Yingguang-I\nJulong-1 Facility (aka PTS)",
+      "Location": "MianyangChina"
+    },
+    {
+      "Name": "ITER",
+      "Type": "Consortium",
+      "Projects": "ITER",
+      "Location": "Saint-Paul-lès-DuranceProvenceFrance"
+    },
+    {
+      "Name": "Imperial College London",
+      "Type": "University",
+      "Projects": "MAGPIE",
+      "Location": "LondonUK"
+    },
+    {
+      "Name": "Institute of Applied Physics and Computational Mathematics",
+      "Type": "National Laboratory",
+      "Location": "BeijingChina"
+    },
+    {
+      "Name": "Institute of Modern Physics, Chinese Academy of Sciences",
+      "Type": "National Laboratory",
+      "Projects": "HIAF (High Intensity heavy ion Accelerator Facility)",
+      "Location": "China"
+    },
+    {
+      "Name": "Institute of Plasma Physics and Laser Microfusion",
+      "Type": "National Laboratory",
+      "Location": "WarsawPoland"
+    },
+    {
+      "Name": "Institute of Plasma Physics of the Czech Academy of Sciences",
+      "Type": "National Laboratory",
+      "Projects": "COMPASS",
+      "Location": "PragueCzech Republic"
+    },
+    {
+      "Name": "Instituto Nacional de Pesquisas Espaciais",
+      "Type": "National Laboratory",
+      "Projects": "ETE (Experimento Tokamak Esférico)",
+      "Location": "São José dos CamposSão PauloBrazil"
+    },
+    {
+      "Name": "Instituto Superior Técnico",
+      "Type": "University",
+      "Projects": "ISTTOK (Instituto Superior Técnico TOKamak)",
+      "Location": "LisbonPortugal"
+    },
+    {
+      "Name": "JAEA (Japan Atomic Energy Agency's) Naka Fusion Institute",
+      "Type": "National Laboratory",
+      "Projects": "JT-60U",
+      "Location": "TōkaiIbarakiJapan"
+    },
+    {
+      "Name": "JSI (Jozef Stefan Institute)",
+      "Type": "National Laboratory",
+      "Location": "LjubljanaSlovenia"
+    },
+    {
+      "Name": "Karlsruhe Institute of Technology",
+      "Type": "University",
+      "Location": "KarlsruheBaden-WürttembergGermany"
+    },
+    {
+      "Name": "Key Laboratory of Pulsed Power Technology and Science",
+      "Type": "National Laboratory",
+      "Location": "China"
+    },
+    {
+      "Name": "Kharkov Institute of Physics and Technology",
+      "Type": "National Laboratory",
+      "Location": "KharkovUkraine"
+    },
+    {
+      "Name": "Kurchatov Institute",
+      "Type": "National Laboratory",
+      "Projects": "T-3",
+      "Location": "MoscowMoscow OblastRussia"
+    },
+    {
+      "Name": "LANL (Los Alamos National Laboratory)",
+      "Type": "National Laboratory",
+      "Projects": "PLX-α\nCTX\nZT-40M\nFRX-L",
+      "Location": "Los AlamosNew MexicoUSA"
+    },
+    {
+      "Name": "LBNL (Lawrence Berkeley National Laboratory)",
+      "Type": "National Laboratory",
+      "Projects": "NDCX-II (Neutralized Drift Compression Experiment II)",
+      "Location": "BerkeleyCaliforniaUSA"
+    },
+    {
+      "Name": "LEI (Lithuanian Energy Institute)",
+      "Type": "National Laboratory",
+      "Location": "KaunasLithuania"
+    },
+    {
+      "Name": "LLNL (Lawrence Livermore National Laboratory)",
+      "Type": "National Laboratory",
+      "Projects": "NIF (National Ignition Facility)\nSSPX (Sustained Spheromak Physics Experiment)\nTMX-U",
+      "Location": "LivermoreCaliforniaUSA"
+    },
+    {
+      "Name": "Laser Fusion Research Center, CAEP (Chinese Academy of Engineering Physics)",
+      "Type": "National Laboratory",
+      "Projects": "XGIII (Xingguang-III Facility)",
+      "Location": "MianyangChina"
+    },
+    {
+      "Name": "MIT",
+      "Type": "University",
+      "Projects": "Alcator A\nAlcator C\nAlcator C-Mod\nTara\nLDX (Levitated Dipole Experiment)",
+      "Location": "CambridgeMassachusettsUSA"
+    },
+    {
+      "Name": "Max Planck Institute of Plasma Physics",
+      "Type": "National Laboratory",
+      "Projects": "Wendelstein 7-X\nASDEX Upgrade\nASDEX\nWendelstein 7-AS\nWendelstein 7-A",
+      "Location": "Garching and Greifswald Mecklenburg-VorpommernGermany"
+    },
+    {
+      "Name": "NRL (Naval Research Laboratory)",
+      "Type": "National Laboratory",
+      "Projects": "NIKE",
+      "Location": "USA"
+    },
+    {
+      "Name": "National Centre of Scientific Research \"Demokritos\"",
+      "Type": "National Laboratory",
+      "Location": "AthensGreece"
+    },
+    {
+      "Name": "National Fusion Research Institute",
+      "Type": "National Laboratory",
+      "Projects": "KSTAR (Korea Superconducting Tokamak Advanced Research)",
+      "Location": "DaejeonKorea"
+    },
+    {
+      "Name": "National Institute of Natural Sciences",
+      "Type": "National Laboratory",
+      "Projects": "LHD (Large Helical Device)",
+      "Location": "TokiGifuJapan"
+    },
+    {
+      "Name": "Oak Ridge National Laboratory",
+      "Type": "National Laboratory",
+      "Location": "Oak RidgeTennesseeUSA"
+    },
+    {
+      "Name": "Osaka University, Institute of Laser Engineering",
+      "Type": "University",
+      "Projects": "GEKKO XII\nLFEX(Laser for Fast Ignition Experiment)",
+      "Location": "OsakaJapan"
+    },
+    {
+      "Name": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Type": "National Laboratory",
+      "Projects": "TFTR\nNSTX-U\nNSTX\nPLT\nLTX (Lithium Tokamak Experiment)\nST\nModel C\nModel A\nModel B-1\nModel B-2\nModel B-3\nModel B-64\nModel B-640\nModel B-65\nModel B-66\nETUDE\nNCSX\nACT-1 (Advanced Concept Torus)\nCDX (Current Drive Experiment)\nCDX-U (Current Drive Experiment-Upgrade)\nLTX-β\nPTSX\nMRX\nFLARE\nMNX\nPDX\nPBX\nPBX-M\nFM-1\nLSP\nProto S-1A\nS-1\nLM-1\nProto S-1C\nSP-1\nQED-1\nQ-1\nL-3\nSP-3\nATC",
+      "Location": "PrincetonNew JerseyUSA"
+    },
+    {
+      "Name": "Pacific Northwest National Laboratory",
+      "Type": "National Laboratory",
+      "Location": "RichlandWashingtonUSA"
+    },
+    {
+      "Name": "Ruđer Bošković Institute",
+      "Type": "National Laboratory",
+      "Projects": "He Ion Source & DiFU Dual-Beam Facility",
+      "Location": "ZagrebCroatia"
+    },
+    {
+      "Name": "SIFFER (Sino-French Fusion Energy Center)",
+      "Type": "Consortium"
+    },
+    {
+      "Name": "SNL (Sandia National Laboratory)",
+      "Type": "National Laboratory",
+      "Projects": "Z Machine MagLIF",
+      "Location": "USA"
+    },
+    {
+      "Name": "SWIP (Southwestern Institute of Physics)",
+      "Type": "National Laboratory",
+      "Projects": "HL-2M\nHL-2A\nHL-1M",
+      "Location": "SichuanChengduChina"
+    },
+    {
+      "Name": "Savannah River National Laboratory",
+      "Type": "National Laboratory",
+      "Location": "AikenSouth CarolinaUSA"
+    },
+    {
+      "Name": "Stony Brook University",
+      "Type": "University",
+      "Location": "Stony BrookNew YorkUSA"
+    },
+    {
+      "Name": "Swarthmore College",
+      "Type": "University",
+      "Projects": "SSX",
+      "Location": "SwarthmorePennsylvaniaUSA"
+    },
+    {
+      "Name": "Swedish Research Council",
+      "Type": "National Laboratory",
+      "Location": "StockholmSweden"
+    },
+    {
+      "Name": "UKAEA (United Kingdom Atomic Energy Authority)",
+      "Type": "National Laboratory",
+      "Projects": "ZETA (Zero Energy Thermonuclear Assembly)",
+      "Location": "HarwellOxfordshireUK"
+    },
+    {
+      "Name": "USTC (University of Science and Technology China)",
+      "Type": "University",
+      "Projects": "KTX (Keda Torus eXperiment)\nKMAX (Keda Mirror with AXisymmetricity)\nKT-5C",
+      "Location": "HefeiAnhuiChina"
+    },
+    {
+      "Name": "University of California, San Diego",
+      "Type": "University",
+      "Location": "San DiegoCaliforniaUSA"
+    },
+    {
+      "Name": "University of California- Los Angeles",
+      "Type": "University",
+      "Location": "Los AngelesCaliforniaUSA"
+    },
+    {
+      "Name": "University of Cyprus",
+      "Type": "University",
+      "Location": "NicosiaCyprus"
+    },
+    {
+      "Name": "University of Houston",
+      "Type": "University",
+      "Location": "HoustonTexasUSA"
+    },
+    {
+      "Name": "University of Hyogo",
+      "Type": "University",
+      "Projects": "HIST (Helicity Injected Spherical Torus)",
+      "Location": "HimejiHyogoJapan"
+    },
+    {
+      "Name": "University of Latvia",
+      "Type": "University",
+      "Location": "RigaLatvia"
+    },
+    {
+      "Name": "University of Manchester Institute of Science and Technology",
+      "Type": "University",
+      "Projects": "SPHEX Spheromak",
+      "Location": "ManchesterGreater ManchesterUK"
+    },
+    {
+      "Name": "University of Maryland, Baltimore County",
+      "Type": "University",
+      "Location": "BaltimoreMarylandUSA"
+    },
+    {
+      "Name": "University of Rochester",
+      "Type": "University",
+      "Projects": "OMEGA Laser Facility",
+      "Location": "RochesterNew YorkUSA"
+    },
+    {
+      "Name": "University of Saskatchewan",
+      "Type": "University",
+      "Projects": "STOR-M\nSTOR-U\nSTOR-1M\nUS-CTI\nUofS-I DPF",
+      "Location": "SaskatoonSaskatchewan Canada"
+    },
+    {
+      "Name": "University of Tartu",
+      "Type": "University",
+      "Location": "TartuEstonia"
+    },
+    {
+      "Name": "University of Tokyo",
+      "Type": "University",
+      "Projects": "TS-3\nTS-4\nUTST (University of Tokyo Spherical Tokamak)",
+      "Location": "BunkyoTokyoJapan"
+    },
+    {
+      "Name": "University of Washington",
+      "Type": "University",
+      "Projects": "FuZE (Fusion Z-Pinch Experiment)\nHIT-SI3\nHIT-SI\nPHDX (Pulsed High Density Experiment)\nSTX (Star Thrust Experiment)\nTCS (Translation Confinement Sustainment Experiment)\nZaP Flow Z-Pinch\nZaP-HD (High Energy Density)\nLSX (Large-S Experiment)\nTCSU",
+      "Location": "SeattleWashingtonUSA"
+    },
+    {
+      "Name": "University of Wisconsin Madison",
+      "Type": "University",
+      "Projects": "MST (Madison Symmetric Torus)\nWHAM (Wisconsin High-field Axisymmetric Mirror)\nHSX (Helically Symmetric Experiment)\nProto-CLEO",
+      "Location": "MadisonWisconsinUSA"
+    },
+    {
+      "Name": "VTT Technical Research Centre of Finland",
+      "Type": "National Laboratory",
+      "Location": "EspooFinland"
+    },
+    {
+      "Name": "Virginia Polytechnic Institute and State University",
+      "Type": "University",
+      "Location": "BlacksburgVirginiaUSA"
+    },
+    {
+      "Name": "Xi'an Jiaotong University",
+      "Type": "University",
+      "Projects": "Qin-1",
+      "Location": "Xi'anShaanxiChina"
+    }
+  ],
+  "Funders": [
+    {
+      "Name": "Abell Foundation",
+      "Type": "Nonprofit Organization",
+      "Funded": "LPP Fusion"
+    },
+    {
+      "Name": "Alphabet",
+      "Type": "Public Company",
+      "Funded": "TAE Technologies",
+      "Location": "Mountain ViewCaliforniaUSA"
+    },
+    {
+      "Name": "Artis Ventures",
+      "Type": "Investment Firm",
+      "Funded": "TAE Life Sciences",
+      "Location": "USA"
+    },
+    {
+      "Name": "Bezos Expeditions",
+      "Type": "Investment Firm",
+      "Funded": "General Fusion"
+    },
+    {
+      "Name": "Big Sky Partners",
+      "Type": "Investment Firm",
+      "Funded": "TAE Technologies"
+    },
+    {
+      "Name": "BlueYard Capital",
+      "Type": "Investment Firm",
+      "Funded": "Marvel Fusion"
+    },
+    {
+      "Name": "Braemar Energy Ventures",
+      "Type": "Investment Firm",
+      "Funded": "General Fusion"
+    },
+    {
+      "Name": "Breakthrough Energy Ventures",
+      "Type": "Investment Firm",
+      "Funded": "Commonwealth Fusion Systems"
+    },
+    {
+      "Name": "Business Development Bank of Canada",
+      "Type": "Bank",
+      "Funded": "General Fusion",
+      "Location": "Canada"
+    },
+    {
+      "Name": "Capricorn Investment Group",
+      "Type": "Investment Firm",
+      "Funded": "Helion Energy"
+    },
+    {
+      "Name": "Cenovus Energy",
+      "Type": "Public Company",
+      "Funded": "General Fusion",
+      "Location": "CalgaryAlbertaCanada"
+    },
+    {
+      "Name": "Chevron Technology Ventures",
+      "Type": "Investment Firm",
+      "Funded": "Zap Energy Inc."
+    },
+    {
+      "Name": "Crysalix Ventures",
+      "Type": "Investment Firm",
+      "Funded": "General Fusion"
+    },
+    {
+      "Name": "DLF Group",
+      "Type": "Investment Firm",
+      "Funded": "General Fusion"
+    },
+    {
+      "Name": "DOE ARPA-E (US Department of Energy)",
+      "Type": "Public Funding Agency",
+      "Funded": "CTFusion\nZap Energy Inc.\nPrinceton Fusion Systems\nCalifornia Institute of Technology\nHelion Energy\nLBNL (Lawrence Berkeley National Laboratory)\nLANL (Los Alamos National Laboratory)\nMIFTI\nNumerEx\nSNL (Sandia National Laboratory)\nSwarthmore College\nUniversity of Washington\nUniversity of Wisconsin Madison\nUniversity of Maryland, Baltimore County\nNK Labs\nCommonwealth Fusion Systems\nPPPL (Princeton Plasma Physics Laboratory)\nUniversity of Rochester\nVirginia Polytechnic Institute and State University\nSapientai\nMIT\nOak Ridge National Laboratory\nType One Energy\nHyperjet Fusion\nUniversity of California, San Diego\nColorado School of Mines\nSavannah River National Laboratory\nUniversity of Houston\nUniversity of California- Los Angeles\nBridge 12 Technologies, Inc.\nPhoenix, LLC.\nStony Brook University\nPacific Northwest National Laboratory",
+      "Location": "USA"
+    },
+    {
+      "Name": "DOE OFES (US Department of Energy Office of Fusion Energy Sciences)",
+      "Type": "Public Funding Agency",
+      "Funded": "ITER\nHyperjet Fusion\nCommonwealth Fusion Systems\nTAE Technologies\nSolid Material Solutions\nTokamak Energy\nGamma Alloys Inc\nGeneral Fusion",
+      "Location": "USA"
+    },
+    {
+      "Name": "David Harding",
+      "Type": "Individual",
+      "Funded": "Tokamak Energy"
+    },
+    {
+      "Name": "Disruptive Technology Advisers",
+      "Type": "Investment Firm",
+      "Funded": "General Fusion"
+    },
+    {
+      "Name": "Dr. Hans-Peter Wild",
+      "Type": "Individual",
+      "Funded": "Tokamak Energy"
+    },
+    {
+      "Name": "ENI",
+      "Type": "Public Company",
+      "Funded": "Commonwealth Fusion Systems",
+      "Location": "RomeItaly"
+    },
+    {
+      "Name": "Enel Latin America",
+      "Type": "Investment Firm",
+      "Funded": "TAE Technologies"
+    },
+    {
+      "Name": "Entrepreneurs Fund",
+      "Type": "Investment Firm",
+      "Funded": "General Fusion"
+    },
+    {
+      "Name": "Equinor SA",
+      "Type": "Public Company",
+      "Funded": "Commonwealth Fusion Systems",
+      "Location": "StavangerNorway"
+    },
+    {
+      "Name": "For Good Ventures",
+      "Type": "Investment Firm",
+      "Funded": "TAE Technologies"
+    },
+    {
+      "Name": "Free Radical Ventures",
+      "Type": "Investment Firm",
+      "Funded": "Horne Technologies"
+    },
+    {
+      "Name": "Future Ventures",
+      "Type": "Investment Firm",
+      "Funded": "Commonwealth Fusion Systems"
+    },
+    {
+      "Name": "GIC",
+      "Type": "Sovereign Wealth Fund",
+      "Funded": "General Fusion",
+      "Location": "Singapore"
+    },
+    {
+      "Name": "Goldman Sachs",
+      "Type": "Public Company",
+      "Funded": "TAE Technologies",
+      "Location": "ManhattenNew YorkUSA"
+    },
+    {
+      "Name": "Government of Canada Strategic Innovation Fund",
+      "Type": "Public Funding Agency",
+      "Funded": "General Fusion",
+      "Location": "Canada"
+    },
+    {
+      "Name": "GrowthWorks",
+      "Type": "Investment Firm",
+      "Funded": "General Fusion",
+      "Location": "WinnipegManitobaCanada"
+    },
+    {
+      "Name": "Hatch",
+      "Type": "Investment Firm",
+      "Funded": "General Fusion"
+    },
+    {
+      "Name": "Hostplus",
+      "Type": "Investment Firm",
+      "Funded": "First Light Fusion"
+    },
+    {
+      "Name": "I2BF Global Ventures",
+      "Type": "Investment Firm",
+      "Funded": "General Fusion"
+    },
+    {
+      "Name": "IP Group",
+      "Type": "Investment Firm",
+      "Funded": "First Light Fusion",
+      "Location": "LondonUK"
+    },
+    {
+      "Name": "Invesco Asset Management Limited",
+      "Type": "Investment Firm",
+      "Funded": "First Light Fusion"
+    },
+    {
+      "Name": "Japan Ministry of Economy, Trade, and Industry(METI)",
+      "Type": "Public Funding Agency",
+      "Funded": "Kyoto Fusioneering",
+      "Location": "Japan"
+    },
+    {
+      "Name": "Khazanah National",
+      "Type": "Sovereign Wealth Fund",
+      "Funded": "General Fusion",
+      "Location": "Malaysia"
+    },
+    {
+      "Name": "Khosla Ventures",
+      "Type": "Investment Firm",
+      "Funded": "Commonwealth Fusion Systems"
+    },
+    {
+      "Name": "Kyoto iCAP",
+      "Type": "Investment Firm",
+      "Funded": "Kyoto Fusioneering",
+      "Location": "Japan"
+    },
+    {
+      "Name": "Legal & General",
+      "Type": "Investment Firm",
+      "Funded": "Tokamak Energy"
+    },
+    {
+      "Name": "Lowercarbon Capital",
+      "Type": "Investment Firm",
+      "Funded": "Zap Energy Inc."
+    },
+    {
+      "Name": "Lowercase Capital",
+      "Type": "Investment Firm",
+      "Funded": "Commonwealth Fusion Systems"
+    },
+    {
+      "Name": "Mithril Capital Management",
+      "Type": "Investment Firm",
+      "Funded": "Helion Energy"
+    },
+    {
+      "Name": "Moore Strategic Ventures",
+      "Type": "Investment Firm",
+      "Funded": "Commonwealth Fusion Systems"
+    },
+    {
+      "Name": "New Enterprise Associates",
+      "Type": "Investment Firm",
+      "Funded": "TAE Technologies"
+    },
+    {
+      "Name": "Oxford Sciences Innovation (OSI)",
+      "Type": "Investment Firm",
+      "Funded": "First Light Fusion"
+    },
+    {
+      "Name": "PIZ signal",
+      "Type": "Investment Firm",
+      "Funded": "TAE Technologies"
+    },
+    {
+      "Name": "ParkWalk Advisors",
+      "Type": "Investment Firm",
+      "Funded": "First Light Fusion"
+    },
+    {
+      "Name": "Paul Allen",
+      "Type": "Individual",
+      "Funded": "TAE Technologies"
+    },
+    {
+      "Name": "PenderFund Capital Management",
+      "Type": "Investment Firm",
+      "Funded": "General Fusion"
+    },
+    {
+      "Name": "Rusnano",
+      "Type": "Investment Firm",
+      "Funded": "TAE Technologies"
+    },
+    {
+      "Name": "SBIR (US Small Business Innovation Research Grant)",
+      "Type": "Public Funding Agency",
+      "Funded": "CTFusion",
+      "Location": "USA"
+    },
+    {
+      "Name": "SDTC (Sustainable Technology Development Canada)",
+      "Type": "Public Funding Agency",
+      "Funded": "General Fusion",
+      "Location": "Canada"
+    },
+    {
+      "Name": "SET Ventures",
+      "Type": "Investment Firm",
+      "Funded": "General Fusion",
+      "Location": "AmsterdamNetherlands"
+    },
+    {
+      "Name": "Safar Partners",
+      "Type": "Investment Firm",
+      "Funded": "Commonwealth Fusion Systems"
+    },
+    {
+      "Name": "Sandaire Investment Office",
+      "Type": "Investment Firm",
+      "Funded": "First Light Fusion"
+    },
+    {
+      "Name": "Schooner Capital",
+      "Type": "Investment Firm",
+      "Funded": "Commonwealth Fusion Systems"
+    },
+    {
+      "Name": "Starlight Ventures",
+      "Type": "Investment Firm",
+      "Funded": "Commonwealth Fusion Systems"
+    },
+    {
+      "Name": "Strong Atomics",
+      "Type": "Investment Firm",
+      "Funded": "Hyperjet Fusion\nMIFTI\nCompact Fusion Systems\nUniversity of Washington",
+      "Location": "San Francisco, CaliforniaUSA"
+    },
+    {
+      "Name": "Temasek",
+      "Type": "Sovereign Wealth Fund",
+      "Funded": "General Fusion\nCommonwealth Fusion Systems",
+      "Location": "Singapore"
+    },
+    {
+      "Name": "The Engine",
+      "Type": "Investment Firm",
+      "Funded": "Commonwealth Fusion Systems",
+      "Location": "Cambridge Massachusetts United States"
+    },
+    {
+      "Name": "Thistledown Capital",
+      "Type": "Investment Firm",
+      "Funded": "General Fusion",
+      "Location": "Ottawa Ontario Canada"
+    },
+    {
+      "Name": "University of Washington Innovation Fund",
+      "Type": "Public Funding Agency",
+      "Funded": "CTFusion",
+      "Location": "USA"
+    },
+    {
+      "Name": "Unknown Investor",
+      "Type": "Investment Firm",
+      "Funded": "TAE Technologies\nTokamak Energy\nHelicity Space\nProton Scientific Technologies"
+    },
+    {
+      "Name": "Venrock Associates",
+      "Type": "Investment Firm",
+      "Funded": "TAE Technologies",
+      "Location": "Palo AltoCaliforniaUSA"
+    },
+    {
+      "Name": "Vulcan Ventures",
+      "Type": "Investment Firm",
+      "Funded": "TAE Technologies"
+    },
+    {
+      "Name": "Wefunder",
+      "Type": "Crowdfunding Service",
+      "Funded": "LPP Fusion"
+    },
+    {
+      "Name": "Wellcome Trust",
+      "Type": "Public Funding Agency",
+      "Funded": "TAE Technologies",
+      "Location": "UK"
+    },
+    {
+      "Name": "Y Combinator",
+      "Type": "Investment Firm",
+      "Funded": "Helion Energy",
+      "Location": "Mountain View, CaliforniaUSA"
+    }
+  ],
+  "Service Providers": [
+    {
+      "Name": "ASG Superconductors",
+      "Type": "Private Company",
+      "Location": "Genoa Italy"
+    },
+    {
+      "Name": "Bridge 12 Technologies, Inc.",
+      "Type": "Private Company",
+      "Location": "Framingham Massachusetts USA"
+    },
+    {
+      "Name": "Davis & Musgrove Ltd.",
+      "Type": "Consultancy",
+      "Location": "Oxford United Kingdom"
+    },
+    {
+      "Name": "Gamma Alloys Inc",
+      "Type": "Private Company",
+      "Location": "Valencia CaliforniaUSA"
+    },
+    {
+      "Name": "Hatch Ltd.",
+      "Type": "Consultancy",
+      "Location": "Mississauga Ontario Canada"
+    },
+    {
+      "Name": "Jema Energy",
+      "Type": "Private Company",
+      "Location": "Spain"
+    },
+    {
+      "Name": "Kyoto Fusioneering",
+      "Type": "Private Company",
+      "Location": "Kyoto CityKyoto PrefectureJapan"
+    },
+    {
+      "Name": "NK Labs",
+      "Type": "Private Company",
+      "Location": "CambridgeMassachusettsUSA"
+    },
+    {
+      "Name": "Neuboron Medtech Ltd.",
+      "Type": "Private Company",
+      "Location": "NanjingJiangning DistrictChina"
+    },
+    {
+      "Name": "New Light Consulting",
+      "Type": "Consultancy",
+      "Location": "USA"
+    },
+    {
+      "Name": "NumerEx",
+      "Type": "Private Company",
+      "Location": "CorralesNew MexicoUSA"
+    },
+    {
+      "Name": "Pegasus Fusion Strategies",
+      "Type": "Consultancy",
+      "Location": "USA"
+    },
+    {
+      "Name": "Phoenix, LLC.",
+      "Type": "Private Company",
+      "Location": "MadisonWisconsinUSA"
+    },
+    {
+      "Name": "Pulsar Fusion",
+      "Type": "Private Company",
+      "Location": "UK"
+    },
+    {
+      "Name": "Sapientai",
+      "Type": "Private Company",
+      "Location": "AustinTexasUSA"
+    },
+    {
+      "Name": "SciVista",
+      "Type": "Private Company",
+      "Location": "Santa FeNew MexicoUSA"
+    },
+    {
+      "Name": "Solid Material Solutions",
+      "Type": "Private Company",
+      "Location": "North ChelmsfordMassachusettsUSA"
+    },
+    {
+      "Name": "TAE Life Sciences",
+      "Type": "Private Company",
+      "Location": "Foothill RanchCaliforniaUSA"
+    }
+  ],
+  "Projects": [
+    {
+      "Name": "A",
+      "Organization": "TAE Technologies",
+      "Approach": "Field Reversed Configuration (FRC)",
+      "Country": "USA",
+      "Years Active": "1998 to 2000"
+    },
+    {
+      "Name": "ACT-1 (Advanced Concept Torus)",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Tokamak",
+      "Country": "USA",
+      "Years Active": "1979 to 1985"
+    },
+    {
+      "Name": "ASDEX",
+      "Organization": "Max Planck Institute of Plasma Physics",
+      "Approach": "Tokamak",
+      "Country": "Germany",
+      "Years Active": "1980 to 1990"
+    },
+    {
+      "Name": "ASDEX Upgrade",
+      "Organization": "Max Planck Institute of Plasma Physics",
+      "Approach": "Tokamak",
+      "Country": "Germany",
+      "Years Active": "1991 to present"
+    },
+    {
+      "Name": "ATC",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Tokamak",
+      "Country": "USA",
+      "Years Active": "1972 to 1976"
+    },
+    {
+      "Name": "Alcator A",
+      "Organization": "MIT",
+      "Approach": "Tokamak",
+      "Country": "USA",
+      "Years Active": "1972 to 1980"
+    },
+    {
+      "Name": "Alcator C",
+      "Organization": "MIT",
+      "Approach": "Tokamak",
+      "Country": "USA",
+      "Years Active": "1979 to 1987"
+    },
+    {
+      "Name": "Alcator C-Mod",
+      "Organization": "MIT",
+      "Approach": "Tokamak",
+      "Country": "USA",
+      "Years Active": "1991 to 2016"
+    },
+    {
+      "Name": "B",
+      "Organization": "TAE Technologies",
+      "Approach": "Field Reversed Configuration (FRC)",
+      "Country": "USA",
+      "Years Active": "2000 to 2004"
+    },
+    {
+      "Name": "C-1",
+      "Organization": "TAE Technologies",
+      "Approach": "Field Reversed Configuration (FRC)",
+      "Country": "USA",
+      "Years Active": "2004 to 2009"
+    },
+    {
+      "Name": "C-2",
+      "Organization": "TAE Technologies",
+      "Approach": "Field Reversed Configuration (FRC)",
+      "Country": "USA",
+      "Years Active": "2009 to 2013"
+    },
+    {
+      "Name": "C-2U",
+      "Organization": "TAE Technologies",
+      "Approach": "Field Reversed Configuration (FRC)",
+      "Country": "USA",
+      "Years Active": "2013 to 2015"
+    },
+    {
+      "Name": "C-2W (Norman)",
+      "Organization": "TAE Technologies",
+      "Approach": "Field Reversed Configuration (FRC)",
+      "Country": "USA",
+      "Years Active": "2016 to 2019"
+    },
+    {
+      "Name": "CBFR-SPS (Colliding Beam Fusion Reactor Space Propulsion System)",
+      "Organization": "TAE Technologies",
+      "Country": "USA"
+    },
+    {
+      "Name": "CDX (Current Drive Experiment)",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Tokamak",
+      "Country": "USA",
+      "Years Active": "1986 to 1989"
+    },
+    {
+      "Name": "CDX-U (Current Drive Experiment-Upgrade)",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Spherical Tokamak",
+      "Country": "USA",
+      "Years Active": "1992 to 2005"
+    },
+    {
+      "Name": "CFETR (China Fusion Engineering Test Reactor)",
+      "Organization": "Hefei Institutes of Physical Science of the Chinese Academy of Sciences",
+      "Approach": "Tokamak",
+      "Country": "China"
+    },
+    {
+      "Name": "CFR (Compact Fusion Reactor)",
+      "Organization": "Lockheed Martin Skunk Works",
+      "Approach": "Magnetic Cusp Confinemnt",
+      "Country": "USA"
+    },
+    {
+      "Name": "COBRA",
+      "Organization": "Cornell University",
+      "Approach": "Z Pinch",
+      "Country": "USA"
+    },
+    {
+      "Name": "COMPASS",
+      "Organization": "Institute of Plasma Physics of the Czech Academy of Sciences",
+      "Approach": "Tokamak",
+      "Country": "Czech Republic",
+      "Years Active": "2008 to present"
+    },
+    {
+      "Name": "COMPASS-C",
+      "Organization": "CCFE (Culham Centre for Fusion Energy)",
+      "Country": "United Kingdom",
+      "Years Active": "1989 to 1992"
+    },
+    {
+      "Name": "COMPASS-D",
+      "Organization": "CCFE (Culham Centre for Fusion Energy)",
+      "Country": "United Kingdom",
+      "Years Active": "1992 to 2000"
+    },
+    {
+      "Name": "CTX",
+      "Organization": "LANL (Los Alamos National Laboratory)",
+      "Approach": "Spheromak",
+      "Country": "USA"
+    },
+    {
+      "Name": "Caltech Spheromak Experiment",
+      "Organization": "California Institute of Technology",
+      "Approach": "Spheromak",
+      "Country": "USA"
+    },
+    {
+      "Name": "Compact Fusion Systems Prototype",
+      "Organization": "Compact Fusion Systems",
+      "Approach": "Liquid Liner Compressor",
+      "Country": "USA"
+    },
+    {
+      "Name": "DIII-D",
+      "Organization": "General Atomics",
+      "Approach": "Tokamak",
+      "Country": "USA"
+    },
+    {
+      "Name": "DITE (Divertor Injection Tokamak"
+    },
+    {
+      "Name": "EAST",
+      "Organization": "Hefei Institutes of Physical Science of the Chinese Academy of Sciences",
+      "Approach": "Tokamak",
+      "Country": "China",
+      "Years Active": "2006 to present"
+    },
+    {
+      "Name": "EFRC-0",
+      "Organization": "ENN Energy Research Institute",
+      "Approach": "Field Reversed Configuration (FRC)",
+      "Country": "China"
+    },
+    {
+      "Name": "EST50",
+      "Organization": "ENN Energy Research Institute",
+      "Approach": "Spherical Tokamak",
+      "Country": "China",
+      "Years Active": "2019 to present"
+    },
+    {
+      "Name": "ETA-BETA I",
+      "Organization": "Consorzio RFX",
+      "Approach": "Reverse Field Pinch",
+      "Country": "Italy",
+      "Years Active": "1974 to 1977"
+    },
+    {
+      "Name": "ETA-BETA II",
+      "Organization": "Consorzio RFX",
+      "Approach": "Reverse Field Pinch",
+      "Country": "Italy"
+    },
+    {
+      "Name": "ETE (Experimento Tokamak Esférico)",
+      "Organization": "Instituto Nacional de Pesquisas Espaciais",
+      "Approach": "Spherical Tokamak",
+      "Country": "Brazil"
+    },
+    {
+      "Name": "ETUDE",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Stellarator",
+      "Country": "USA",
+      "Years Active": "1957 to 1961"
+    },
+    {
+      "Name": "FEP (Fusion Engine Prototype)",
+      "Organization": "Helion Energy",
+      "Approach": "Field Reversed Configuration (FRC)",
+      "Country": "USA",
+      "Years Active": "2018 to present"
+    },
+    {
+      "Name": "FIREX",
+      "Approach": "Laser Inertial Confinement Fusion"
+    },
+    {
+      "Name": "FLARE",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Field Reversed Configuration (FRC)",
+      "Country": "USA",
+      "Years Active": "2018 to present"
+    },
+    {
+      "Name": "FM-1",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Spherator",
+      "Country": "USA",
+      "Years Active": "1971 to 1976"
+    },
+    {
+      "Name": "FRX-L",
+      "Organization": "LANL (Los Alamos National Laboratory)",
+      "Approach": "Field Reversed Configuration (FRC)",
+      "Country": "USA"
+    },
+    {
+      "Name": "FTU (Frascati Tokamak Upgrade)",
+      "Organization": "ENEA (Italian National Agency for New Technologies, Energy, and Sustainable Economic Development)",
+      "Country": "Italy"
+    },
+    {
+      "Name": "FUSOR-CR",
+      "Organization": "Costa Rica Institute of Technology",
+      "Approach": "Inertial Electrostatic",
+      "Country": "Costa Rica"
+    },
+    {
+      "Name": "First Light Machine 3",
+      "Organization": "First Light Fusion",
+      "Approach": "Impact Inertial Confinement",
+      "Country": "UK",
+      "Years Active": "2019 to present"
+    },
+    {
+      "Name": "FuZE (Fusion Z-Pinch Experiment)",
+      "Organization": "University of Washington",
+      "Approach": "Z Pinch",
+      "Country": "USA",
+      "Years Active": "2015 to present"
+    },
+    {
+      "Name": "GDT Device at Budker Institute of Nuclear Physics",
+      "Organization": "Budker Institute of Nuclear Physics",
+      "Approach": "Mirror",
+      "Country": "Russia"
+    },
+    {
+      "Name": "GEKKO XII",
+      "Organization": "Osaka University, Institute of Laser Engineering",
+      "Approach": "Laser Inertial Confinement Fusion",
+      "Country": "Japan",
+      "Years Active": "1983 to present"
+    },
+    {
+      "Name": "GOL-3",
+      "Organization": "Budker Institute of Nuclear Physics",
+      "Approach": "Mirror",
+      "Country": "Russia"
+    },
+    {
+      "Name": "Globus-M2",
+      "Organization": "Budker Institute of Nuclear Physics",
+      "Approach": "Spherical Tokamak",
+      "Country": "Russia"
+    },
+    {
+      "Name": "HBTX-1",
+      "Organization": "CCFE (Culham Centre for Fusion Energy)",
+      "Country": "United Kingdom",
+      "Years Active": "1970 to 1980"
+    },
+    {
+      "Name": "HBTX-1A",
+      "Organization": "CCFE (Culham Centre for Fusion Energy)",
+      "Country": "United Kingdom",
+      "Years Active": "1980 to 1990"
+    },
+    {
+      "Name": "HBTX-1B",
+      "Organization": "CCFE (Culham Centre for Fusion Energy)",
+      "Country": "United Kingdom",
+      "Years Active": "1980 to 1990"
+    },
+    {
+      "Name": "HBTX-1C",
+      "Organization": "CCFE (Culham Centre for Fusion Energy)",
+      "Country": "United Kingdom",
+      "Years Active": "1987 to 1990"
+    },
+    {
+      "Name": "HFRC (HUST FRC)",
+      "Organization": "Huazhong University of Science and Technology",
+      "Approach": "Field Reversed Configuration (FRC)",
+      "Country": "China"
+    },
+    {
+      "Name": "HIAF (High Intensity heavy ion Accelerator Facility)",
+      "Organization": "Institute of Modern Physics, Chinese Academy of Sciences",
+      "Country": "China"
+    },
+    {
+      "Name": "HIST (Helicity Injected Spherical Torus)",
+      "Organization": "University of Hyogo",
+      "Approach": "Spheromak",
+      "Country": "Japan"
+    },
+    {
+      "Name": "HIT-SI",
+      "Organization": "University of Washington",
+      "Approach": "Spheromak",
+      "Country": "USA",
+      "Years Active": "2005 to present"
+    },
+    {
+      "Name": "HIT-SI3",
+      "Organization": "University of Washington",
+      "Approach": "Spheromak",
+      "Country": "USA",
+      "Years Active": "2015 to present"
+    },
+    {
+      "Name": "HIT-SIU",
+      "Organization": "CTFusion",
+      "Approach": "Spheromak",
+      "Country": "USA"
+    },
+    {
+      "Name": "HL-1M",
+      "Organization": "SWIP (Southwestern Institute of Physics)",
+      "Country": "China"
+    },
+    {
+      "Name": "HL-2A",
+      "Organization": "SWIP (Southwestern Institute of Physics)",
+      "Approach": "Tokamak",
+      "Country": "China",
+      "Years Active": "2002 to present"
+    },
+    {
+      "Name": "HL-2M",
+      "Organization": "SWIP (Southwestern Institute of Physics)",
+      "Approach": "Tokamak",
+      "Country": "China",
+      "Years Active": "2020 to present"
+    },
+    {
+      "Name": "HSX (Helically Symmetric Experiment)",
+      "Organization": "University of Wisconsin Madison",
+      "Approach": "Stellarator",
+      "Country": "USA",
+      "Years Active": "1999 to present"
+    },
+    {
+      "Name": "HT-7",
+      "Organization": "Hefei Institutes of Physical Science of the Chinese Academy of Sciences",
+      "Approach": "Tokamak",
+      "Country": "China"
+    },
+    {
+      "Name": "He Ion Source & DiFU Dual-Beam Facility",
+      "Organization": "Ruđer Bošković Institute",
+      "Approach": "Ion Source",
+      "Country": "Croatia",
+      "Years Active": "2019 to present"
+    },
+    {
+      "Name": "IFMIF (International Fusion Materials Irradiation Facility)",
+      "Approach": "Neutron Source"
+    },
+    {
+      "Name": "IPA (Inductive Plasma Accelerator)",
+      "Organization": "Helion Energy",
+      "Approach": "Field Reversed Configuration (FRC)",
+      "Country": "USA",
+      "Years Active": "2005 to 2012"
+    },
+    {
+      "Name": "ISTTOK (Instituto Superior Técnico TOKamak)",
+      "Organization": "Instituto Superior Técnico",
+      "Approach": "Tokamak",
+      "Country": "Portugal"
+    },
+    {
+      "Name": "ITER",
+      "Organization": "ITER",
+      "Approach": "Tokamak",
+      "Country": "France",
+      "Years Active": "2007 to present"
+    },
+    {
+      "Name": "Icarus",
+      "Organization": "Horne Technologies",
+      "Approach": "Fusor",
+      "Country": "USA"
+    },
+    {
+      "Name": "J-TEXT",
+      "Organization": "Huazhong University of Science and Technology",
+      "Approach": "Tokamak",
+      "Country": "China"
+    },
+    {
+      "Name": "JET (Joint European Torus)",
+      "Organization": "CCFE (Culham Centre for Fusion Energy)",
+      "Approach": "Tokamak",
+      "Country": "United Kingdom",
+      "Years Active": "1983 to present"
+    },
+    {
+      "Name": "JT-60U",
+      "Organization": "JAEA (Japan Atomic Energy Agency's) Naka Fusion Institute",
+      "Approach": "Tokamak",
+      "Country": "Japan"
+    },
+    {
+      "Name": "Julong-1 Facility (aka PTS)",
+      "Organization": "IFP (Intstitue of Fluid Physics)",
+      "Approach": "Z Pinch",
+      "Country": "China",
+      "Years Active": "2013 to present"
+    },
+    {
+      "Name": "KMAX (Keda Mirror with AXisymmetricity)",
+      "Organization": "USTC (University of Science and Technology China)",
+      "Approach": "Field Reversed Configuration (FRC)",
+      "Country": "China",
+      "Years Active": "2014 to present"
+    },
+    {
+      "Name": "KSTAR (Korea Superconducting Tokamak Advanced Research)",
+      "Organization": "National Fusion Research Institute",
+      "Approach": "Tokamak",
+      "Country": "Korea",
+      "Years Active": "2008 to present"
+    },
+    {
+      "Name": "KT-5C",
+      "Organization": "USTC (University of Science and Technology China)",
+      "Approach": "Tokamak",
+      "Country": "China"
+    },
+    {
+      "Name": "KTX (Keda Torus eXperiment)",
+      "Organization": "USTC (University of Science and Technology China)",
+      "Country": "China"
+    },
+    {
+      "Name": "L-3",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Country": "USA"
+    },
+    {
+      "Name": "LDX (Levitated Dipole Experiment)",
+      "Organization": "MIT",
+      "Approach": "Levitated Dipole",
+      "Country": "USA"
+    },
+    {
+      "Name": "LFEX(Laser for Fast Ignition Experiment)",
+      "Organization": "Osaka University, Institute of Laser Engineering",
+      "Approach": "Laser Inertial Confinement Fusion",
+      "Country": "Japan",
+      "Years Active": "2003 to present"
+    },
+    {
+      "Name": "LHD (Large Helical Device)",
+      "Organization": "National Institute of Natural Sciences",
+      "Approach": "Stellarator",
+      "Country": "Japan",
+      "Years Active": "1998 to present"
+    },
+    {
+      "Name": "LM-1",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Linear Multipole",
+      "Country": "USA",
+      "Years Active": "1966 to 1966"
+    },
+    {
+      "Name": "LMJ (Megajoule Laser facility)",
+      "Organization": "CEA (Commissariat à l’Energie Atomique)",
+      "Approach": "Laser Inertial Confinement Fusion",
+      "Country": "France"
+    },
+    {
+      "Name": "LSP",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Spherator",
+      "Country": "USA",
+      "Years Active": "1970 to 1971"
+    },
+    {
+      "Name": "LSX (Large-S Experiment)",
+      "Organization": "University of Washington",
+      "Approach": "Field Reversed Configuration (FRC)",
+      "Country": "USA",
+      "Years Active": "1992 to present"
+    },
+    {
+      "Name": "LTX (Lithium Tokamak Experiment)",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Spherical Tokamak",
+      "Country": "USA",
+      "Years Active": "2008 to 2016"
+    },
+    {
+      "Name": "LTX-β",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Spherical Tokamak",
+      "Country": "USA",
+      "Years Active": "2018 to present"
+    },
+    {
+      "Name": "LULI (Le Laboratoire pour l'utilisation des lasers intenses)",
+      "Organization": "Ecole Polytechnique",
+      "Approach": "Laser Inertial Confinement Fusion",
+      "Country": "France"
+    },
+    {
+      "Name": "MAGPIE",
+      "Organization": "Imperial College London",
+      "Approach": "Z Pinch",
+      "Country": "UK"
+    },
+    {
+      "Name": "MAST (Mega Ampere Spherical Tokamak)",
+      "Organization": "CCFE (Culham Centre for Fusion Energy)",
+      "Approach": "Spherical Tokamak",
+      "Country": "United Kingdom",
+      "Years Active": "2000 to 2013"
+    },
+    {
+      "Name": "MAST-U (Mega Ampere Spherical Tokamak Upgrade)",
+      "Organization": "CCFE (Culham Centre for Fusion Energy)",
+      "Approach": "Spherical Tokamak",
+      "Country": "United Kingdom"
+    },
+    {
+      "Name": "MEDUSA-CR",
+      "Organization": "Costa Rica Institute of Technology",
+      "Approach": "Spherical Torus",
+      "Country": "Costa Rica"
+    },
+    {
+      "Name": "MNX",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Country": "USA",
+      "Years Active": "1999 to present"
+    },
+    {
+      "Name": "MRT (Magnetized Ring Test)",
+      "Organization": "General Fusion",
+      "Country": "Canada"
+    },
+    {
+      "Name": "MRX",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Field Reversed Configuration (FRC)",
+      "Country": "USA",
+      "Years Active": "1995 to present"
+    },
+    {
+      "Name": "MST (Madison Symmetric Torus)",
+      "Organization": "University of Wisconsin Madison",
+      "Approach": "Reverse Field Pinch",
+      "Country": "USA"
+    },
+    {
+      "Name": "Magnum-PSI",
+      "Organization": "Dutch Institute for Fundamental Energy Research",
+      "Country": "Netherlands"
+    },
+    {
+      "Name": "Mini-Sphere",
+      "Organization": "General Fusion",
+      "Approach": "Liquid Liner Compressor",
+      "Country": "Canada",
+      "Years Active": "2013 to present"
+    },
+    {
+      "Name": "Model A",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Stellarator",
+      "Country": "USA",
+      "Years Active": "1953 to 1953"
+    },
+    {
+      "Name": "Model B-1",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Stellarator",
+      "Country": "USA",
+      "Years Active": "1954 to 1959"
+    },
+    {
+      "Name": "Model B-2",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Stellarator",
+      "Country": "USA",
+      "Years Active": "1956 to 1958"
+    },
+    {
+      "Name": "Model B-3",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Stellarator",
+      "Country": "USA",
+      "Years Active": "1958 to 1966"
+    },
+    {
+      "Name": "Model B-64",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Stellarator",
+      "Country": "USA",
+      "Years Active": "1955 to 1967"
+    },
+    {
+      "Name": "Model B-640",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Tokamak",
+      "Country": "USA",
+      "Years Active": "1956 to 1956"
+    },
+    {
+      "Name": "Model B-65",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Stellarator",
+      "Country": "USA",
+      "Years Active": "1957 to 1967"
+    },
+    {
+      "Name": "Model B-66",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Stellarator",
+      "Country": "USA",
+      "Years Active": "1959 to 1969"
+    },
+    {
+      "Name": "Model C",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Stellarator",
+      "Country": "USA",
+      "Years Active": "1962 to 1969"
+    },
+    {
+      "Name": "NCSX",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Stellarator",
+      "Country": "USA",
+      "Years Active": "2004 to 2008"
+    },
+    {
+      "Name": "NDCX-II (Neutralized Drift Compression Experiment II)",
+      "Organization": "LBNL (Lawrence Berkeley National Laboratory)",
+      "Approach": "Heavy Ion Fusion",
+      "Country": "USA"
+    },
+    {
+      "Name": "NIF (National Ignition Facility)",
+      "Organization": "LLNL (Lawrence Livermore National Laboratory)",
+      "Approach": "Laser Inertial Confinement Fusion",
+      "Country": "USA"
+    },
+    {
+      "Name": "NIKE",
+      "Organization": "NRL (Naval Research Laboratory)",
+      "Approach": "Laser Inertial Confinement Fusion",
+      "Country": "USA"
+    },
+    {
+      "Name": "NOVA",
+      "Approach": "Laser Inertial Confinement Fusion"
+    },
+    {
+      "Name": "NSTX",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Spherical Tokamak",
+      "Country": "USA",
+      "Years Active": "1999 to 2012"
+    },
+    {
+      "Name": "NSTX-U",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Spherical Tokamak",
+      "Country": "USA",
+      "Years Active": "2016 to present"
+    },
+    {
+      "Name": "North Tokamak",
+      "Organization": "DTU (Technical University of Denmark)",
+      "Approach": "Tokamak",
+      "Country": "Denmark"
+    },
+    {
+      "Name": "OMEGA Laser Facility",
+      "Organization": "University of Rochester",
+      "Approach": "Laser Inertial Confinement Fusion",
+      "Country": "USA"
+    },
+    {
+      "Name": "Octopole",
+      "Organization": "General Atomics",
+      "Country": "USA"
+    },
+    {
+      "Name": "PBX",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Tokamak",
+      "Country": "USA",
+      "Years Active": "1984 to 1986"
+    },
+    {
+      "Name": "PBX-M",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Tokamak",
+      "Country": "USA",
+      "Years Active": "1987 to 1993"
+    },
+    {
+      "Name": "PCS",
+      "Organization": "General Fusion",
+      "Country": "Canada"
+    },
+    {
+      "Name": "PDX",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Tokamak",
+      "Country": "USA",
+      "Years Active": "1978 to 1983"
+    },
+    {
+      "Name": "PFRC-1",
+      "Organization": "Princeton Fusion Systems",
+      "Approach": "Field Reversed Configuration (FRC)",
+      "Country": "USA",
+      "Years Active": "2008 to present"
+    },
+    {
+      "Name": "PFRC-2",
+      "Organization": "Princeton Fusion Systems",
+      "Approach": "Field Reversed Configuration (FRC)",
+      "Country": "USA",
+      "Years Active": "2011 to present"
+    },
+    {
+      "Name": "PFRC-3",
+      "Organization": "Princeton Fusion Systems",
+      "Approach": "Field Reversed Configuration (FRC)",
+      "Country": "USA",
+      "Years Active": "2020 to present"
+    },
+    {
+      "Name": "PHDX (Pulsed High Density Experiment)",
+      "Organization": "University of Washington",
+      "Approach": "Field Reversed Configuration (FRC)",
+      "Country": "USA"
+    },
+    {
+      "Name": "PI-1 (Plasma Injector)",
+      "Organization": "General Fusion",
+      "Country": "Canada",
+      "Years Active": "2010 to present"
+    },
+    {
+      "Name": "PI-2 (Plasma Injector)",
+      "Organization": "General Fusion",
+      "Country": "Canada"
+    },
+    {
+      "Name": "PI-3 (Plasma Injector)",
+      "Organization": "General Fusion",
+      "Country": "Canada",
+      "Years Active": "2017 to present"
+    },
+    {
+      "Name": "PLT",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Tokamak",
+      "Country": "USA",
+      "Years Active": "1975 to 1986"
+    },
+    {
+      "Name": "PLX-α",
+      "Organization": "Hyperjet Fusion\nLANL (Los Alamos National Laboratory)",
+      "Approach": "PJMIF (Plasma Jet Magneto Inertial Fusion)",
+      "Country": "USA"
+    },
+    {
+      "Name": "PTSX",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Heavy Ion Fusion",
+      "Country": "USA",
+      "Years Active": "2002 to present"
+    },
+    {
+      "Name": "Proto S-1A",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Spheromak",
+      "Country": "USA",
+      "Years Active": "1980 to 1980"
+    },
+    {
+      "Name": "Proto S-1C",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Spheromak",
+      "Country": "USA",
+      "Years Active": "1981 to 1983"
+    },
+    {
+      "Name": "Proto-CLEO",
+      "Organization": "CCFE (Culham Centre for Fusion Energy)\nUniversity of Wisconsin Madison",
+      "Country": "United Kingdom\nUSA"
+    },
+    {
+      "Name": "Q-1",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Country": "USA",
+      "Years Active": "1960 to 1980"
+    },
+    {
+      "Name": "QED-1",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Linear Arcjet",
+      "Country": "USA",
+      "Years Active": "1976 to 1976"
+    },
+    {
+      "Name": "Qin-1",
+      "Organization": "Xi'an Jiaotong University",
+      "Approach": "Z Pinch",
+      "Country": "China"
+    },
+    {
+      "Name": "RFX-mod",
+      "Organization": "Consorzio RFX",
+      "Approach": "Reverse Field Pinch",
+      "Country": "Italy"
+    },
+    {
+      "Name": "RFX-mod2",
+      "Organization": "Consorzio RFX",
+      "Approach": "Reverse Field Pinch",
+      "Country": "Italy"
+    },
+    {
+      "Name": "S-1",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Spheromak",
+      "Country": "USA",
+      "Years Active": "1983 to 1987"
+    },
+    {
+      "Name": "SCR-1",
+      "Organization": "Costa Rica Institute of Technology",
+      "Approach": "Stellarator",
+      "Country": "Costa Rica",
+      "Years Active": "2016 to present"
+    },
+    {
+      "Name": "SP-1",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Spherator",
+      "Country": "USA",
+      "Years Active": "1968 to 1969"
+    },
+    {
+      "Name": "SP-3",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Spherator",
+      "Country": "USA",
+      "Years Active": "1969 to 1969"
+    },
+    {
+      "Name": "SPARC",
+      "Organization": "Commonwealth Fusion Systems",
+      "Approach": "Tokamak",
+      "Country": "USA"
+    },
+    {
+      "Name": "SPECTOR",
+      "Organization": "General Fusion",
+      "Country": "Canada"
+    },
+    {
+      "Name": "SPHEX Spheromak",
+      "Organization": "University of Manchester Institute of Science and Technology",
+      "Approach": "Spheromak",
+      "Country": "UK"
+    },
+    {
+      "Name": "SSPX (Sustained Spheromak Physics Experiment)",
+      "Organization": "LLNL (Lawrence Livermore National Laboratory)",
+      "Approach": "Spheromak",
+      "Country": "USA",
+      "Years Active": "1999 to present"
+    },
+    {
+      "Name": "SSX",
+      "Organization": "Swarthmore College",
+      "Approach": "Spheromak",
+      "Country": "USA"
+    },
+    {
+      "Name": "ST",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Tokamak",
+      "Country": "USA",
+      "Years Active": "1970 to 1974"
+    },
+    {
+      "Name": "ST25",
+      "Organization": "Tokamak Energy",
+      "Approach": "Spherical Tokamak",
+      "Country": "UK",
+      "Years Active": "2007 to present"
+    },
+    {
+      "Name": "ST25 HTS",
+      "Organization": "Tokamak Energy",
+      "Approach": "Spherical Tokamak",
+      "Country": "UK",
+      "Years Active": "2012 to present"
+    },
+    {
+      "Name": "ST40",
+      "Organization": "Tokamak Energy",
+      "Approach": "Spherical Tokamak",
+      "Country": "UK",
+      "Years Active": "2017 to present"
+    },
+    {
+      "Name": "START (Small Tight Aspect Ratio Tokamak)",
+      "Organization": "CCFE (Culham Centre for Fusion Energy)",
+      "Approach": "Spherical Tokamak",
+      "Country": "United Kingdom",
+      "Years Active": "1990 to 1998"
+    },
+    {
+      "Name": "STEP",
+      "Organization": "CCFE (Culham Centre for Fusion Energy)",
+      "Country": "United Kingdom",
+      "Years Active": "2040 to present"
+    },
+    {
+      "Name": "STOR-1M",
+      "Organization": "University of Saskatchewan",
+      "Approach": "Tokamak",
+      "Country": "Canada",
+      "Years Active": "1983 to present"
+    },
+    {
+      "Name": "STOR-M",
+      "Organization": "University of Saskatchewan",
+      "Approach": "Tokamak",
+      "Country": "Canada",
+      "Years Active": "1987 to present"
+    },
+    {
+      "Name": "STOR-U",
+      "Organization": "University of Saskatchewan",
+      "Approach": "Tokamak",
+      "Country": "Canada"
+    },
+    {
+      "Name": "STX (Star Thrust Experiment)",
+      "Organization": "University of Washington",
+      "Approach": "Field Reversed Configuration (FRC)",
+      "Country": "USA",
+      "Years Active": "1999 to present"
+    },
+    {
+      "Name": "SUNIST (Sino United Spherical Tokamak)",
+      "Organization": "Tsinghua University",
+      "Country": "China"
+    },
+    {
+      "Name": "SWC",
+      "Organization": "General Fusion",
+      "Country": "Canada"
+    },
+    {
+      "Name": "Staged Z-pinch on Zebra Driver",
+      "Organization": "MIFTI",
+      "Approach": "Staged Z-pinch",
+      "Country": "USA"
+    },
+    {
+      "Name": "T-3",
+      "Organization": "Kurchatov Institute",
+      "Approach": "Tokamak",
+      "Country": "Russia"
+    },
+    {
+      "Name": "T5",
+      "Organization": "Lockheed Martin Skunk Works",
+      "Country": "USA",
+      "Years Active": "2019 to present"
+    },
+    {
+      "Name": "TCS (Translation Confinement Sustainment Experiment)",
+      "Organization": "University of Washington",
+      "Approach": "Field Reversed Configuration (FRC)",
+      "Country": "USA",
+      "Years Active": "2002 to 2009"
+    },
+    {
+      "Name": "TCSU",
+      "Organization": "University of Washington",
+      "Approach": "Field Reversed Configuration (FRC)",
+      "Country": "USA"
+    },
+    {
+      "Name": "TCV (Tokamak à configuration variable)",
+      "Organization": "EPFL (École polytechnique fédérale de Lausanne)",
+      "Approach": "Tokamak",
+      "Country": "Switzerland",
+      "Years Active": "1992 to present"
+    },
+    {
+      "Name": "TEXTOR (Tokamak EXperiment for Technology Oriented Research)",
+      "Organization": "Forschungszentrum Jülich",
+      "Approach": "Tokamak",
+      "Country": "Germany",
+      "Years Active": "1983 to 2013"
+    },
+    {
+      "Name": "TFR",
+      "Organization": "CEA (Commissariat à l’Energie Atomique)",
+      "Approach": "Tokamak",
+      "Country": "France",
+      "Years Active": "1973 to 1978"
+    },
+    {
+      "Name": "TFTR",
+      "Organization": "PPPL (Princeton Plasma Physics Laboratory)",
+      "Approach": "Tokamak",
+      "Country": "USA",
+      "Years Active": "1982 to 1997"
+    },
+    {
+      "Name": "TJ-I",
+      "Organization": "CIEMAT (Energéticas, Medioambientales y Tecnológicas)",
+      "Country": "Spain",
+      "Years Active": "1983 to 1995"
+    },
+    {
+      "Name": "TJ-II",
+      "Organization": "CIEMAT (Energéticas, Medioambientales y Tecnológicas)",
+      "Approach": "Stellarator",
+      "Country": "Spain"
+    },
+    {
+      "Name": "TMX-U",
+      "Organization": "LLNL (Lawrence Livermore National Laboratory)",
+      "Approach": "Mirror",
+      "Country": "USA"
+    },
+    {
+      "Name": "TOSCA",
+      "Organization": "CCFE (Culham Centre for Fusion Energy)",
+      "Country": "United Kingdom",
+      "Years Active": "1974 to 1986"
+    },
+    {
+      "Name": "TS-3",
+      "Organization": "University of Tokyo",
+      "Approach": "Spherical Torus",
+      "Country": "Japan"
+    },
+    {
+      "Name": "TS-4",
+      "Organization": "University of Tokyo",
+      "Approach": "Spherical Torus",
+      "Country": "Japan"
+    },
+    {
+      "Name": "Tara",
+      "Organization": "MIT",
+      "Approach": "Tandem Mirror",
+      "Country": "USA"
+    },
+    {
+      "Name": "The Polywell",
+      "Organization": "EMC2",
+      "Approach": "Polywell",
+      "Country": "USA"
+    },
+    {
+      "Name": "Tore Supra",
+      "Organization": "French Alternative Energies and Atomic Energy Commission",
+      "Approach": "Tokamak",
+      "Country": "France",
+      "Years Active": "1988 to 2010"
+    },
+    {
+      "Name": "US-CTI",
+      "Organization": "University of Saskatchewan",
+      "Country": "Canada",
+      "Years Active": "1993 to present"
+    },
+    {
+      "Name": "UTST (University of Tokyo Spherical Tokamak)",
+      "Organization": "University of Tokyo",
+      "Country": "Japan"
+    },
+    {
+      "Name": "UofS-I DPF",
+      "Organization": "University of Saskatchewan",
+      "Approach": "Dense Plasma Focus",
+      "Country": "Canada"
+    },
+    {
+      "Name": "Venti",
+      "Organization": "Helion Energy",
+      "Approach": "Field Reversed Configuration (FRC)",
+      "Country": "USA"
+    },
+    {
+      "Name": "WEST",
+      "Organization": "French Alternative Energies and Atomic Energy Commission",
+      "Approach": "Tokamak",
+      "Country": "France",
+      "Years Active": "2016 to present"
+    },
+    {
+      "Name": "WHAM (Wisconsin High-field Axisymmetric Mirror)",
+      "Organization": "University of Wisconsin Madison",
+      "Approach": "Mirror",
+      "Country": "USA"
+    },
+    {
+      "Name": "Wendelstein 7-A",
+      "Organization": "Max Planck Institute of Plasma Physics",
+      "Approach": "Stellarator",
+      "Country": "Germany",
+      "Years Active": "1975 to 1985"
+    },
+    {
+      "Name": "Wendelstein 7-AS",
+      "Organization": "Max Planck Institute of Plasma Physics",
+      "Approach": "Stellarator",
+      "Country": "Germany",
+      "Years Active": "1988 to 2002"
+    },
+    {
+      "Name": "Wendelstein 7-X",
+      "Organization": "Max Planck Institute of Plasma Physics",
+      "Approach": "Stellarator",
+      "Country": "Germany",
+      "Years Active": "2015 to present"
+    },
+    {
+      "Name": "XGIII (Xingguang-III Facility)",
+      "Organization": "Laser Fusion Research Center, CAEP (Chinese Academy of Engineering Physics)",
+      "Approach": "Laser Inertial Confinement Fusion",
+      "Country": "China"
+    },
+    {
+      "Name": "Yingguang-I",
+      "Organization": "IFP (Intstitue of Fluid Physics)",
+      "Approach": "Field Reversed Configuration (FRC)",
+      "Country": "China",
+      "Years Active": "2014 to present"
+    },
+    {
+      "Name": "Z Machine MagLIF",
+      "Organization": "SNL (Sandia National Laboratory)",
+      "Approach": "Magnetized Liner Inertial Fusion (MagLIF)",
+      "Country": "USA"
+    },
+    {
+      "Name": "ZETA (Zero Energy Thermonuclear Assembly)",
+      "Organization": "UKAEA (United Kingdom Atomic Energy Authority)",
+      "Approach": "Stabilized Pinch",
+      "Country": "UK",
+      "Years Active": "1957 to 1968"
+    },
+    {
+      "Name": "ZT-40M",
+      "Organization": "LANL (Los Alamos National Laboratory)",
+      "Approach": "Reverse Field Pinch",
+      "Country": "USA"
+    },
+    {
+      "Name": "ZaP Flow Z-Pinch",
+      "Organization": "University of Washington",
+      "Approach": "Z Pinch",
+      "Country": "USA",
+      "Years Active": "1999 to 2009"
+    },
+    {
+      "Name": "ZaP-HD (High Energy Density)",
+      "Organization": "University of Washington",
+      "Approach": "Z Pinch",
+      "Country": "USA",
+      "Years Active": "2009 to 2015"
+    }
+  ]
+}
