@@ -45,8 +45,7 @@ const Steps: React.FC<IStepsProps> = ({ activeStep }) => {
         return (
           <Question
             title="
-        
-What kind of project or cooperation of projects do you think can cause fusion energy generation speedups with high efficiency?
+        Which project do you think has the highest effective influence on causing fusion energy to happen closer to this moment in time?
         "
           />
         );
@@ -54,19 +53,11 @@ What kind of project or cooperation of projects do you think can cause fusion en
         return (
           <Question
             title="
-        Which project do you think has the highest effective influence on causing fusion energy to happen closer to this moment in time?
-        "
-          />
-        );
-      case 5:
-        return (
-          <Question
-            title="
         How can an individual calculate his/her own impact on solving fusion energy problems?
         "
           />
         );
-      case 6:
+      case 5:
         return (
           <Question
             title="
@@ -75,7 +66,7 @@ What three single persons ranked from first to third you think can cause globall
         "
           />
         );
-      case 7:
+      case 6:
         return (
           <Typography
             sx={{ textAlign: "center", lineHeight: "5rem" }}

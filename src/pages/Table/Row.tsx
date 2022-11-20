@@ -1,5 +1,5 @@
 import { Rating, TableCell, TableRow, Typography } from "@mui/material";
-import React from "react";
+import React, { useEffect } from "react";
 
 interface ICompanyTableProps {
   name: string;
@@ -27,6 +27,10 @@ const CompanyTable: React.FC<ICompanyTableProps> = ({
   organization,
 }) => {
   const rating = Math.random() * 5;
+
+  //   useEffect(() => {
+  //       location?.split(/^[A-Z0-9 ]*/)
+  //   })
 
   return (
     <TableRow>

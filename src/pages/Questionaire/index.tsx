@@ -32,16 +32,16 @@ const Questionnaire = () => {
       }}
     >
       <Steps activeStep={activeStep} />
-      {activeStep <= 6 && (
+      {activeStep <= 5 && (
         <MobileStepper
           variant="dots"
-          steps={7}
+          steps={6}
           position="static"
           activeStep={activeStep}
           sx={{ minWidth: 400 }}
           nextButton={
             <Button size="small" onClick={handleNext}>
-              {activeStep === 6 ? "Submit" : "Next"}
+              {activeStep === 5 ? "Submit" : "Next"}
               {theme.direction === "rtl" ? (
                 <KeyboardArrowLeft />
               ) : (
