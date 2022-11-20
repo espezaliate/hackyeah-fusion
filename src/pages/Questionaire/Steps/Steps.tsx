@@ -75,6 +75,15 @@ What three single persons ranked from first to third you think can cause globall
         "
           />
         );
+      case 7:
+        return (
+          <Typography
+            sx={{ textAlign: "center", lineHeight: "5rem" }}
+            variant="h3"
+          >
+            Thank You For Completing Our Form!
+          </Typography>
+        );
       default:
         return null;
     }

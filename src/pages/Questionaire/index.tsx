@@ -32,33 +32,39 @@ const Questionnaire = () => {
       }}
     >
       <Steps activeStep={activeStep} />
-      <MobileStepper
-        variant="dots"
-        steps={6}
-        position="static"
-        activeStep={activeStep}
-        sx={{ minWidth: 400 }}
-        nextButton={
-          <Button size="small" onClick={handleNext} disabled={activeStep === 5}>
-            Next
-            {theme.direction === "rtl" ? (
-              <KeyboardArrowLeft />
-            ) : (
-              <KeyboardArrowRight />
-            )}
-          </Button>
-        }
-        backButton={
-          <Button size="small" onClick={handleBack} disabled={activeStep === 0}>
-            {theme.direction === "rtl" ? (
-              <KeyboardArrowRight />
-            ) : (
-              <KeyboardArrowLeft />
-            )}
-            Back
-          </Button>
-        }
-      />
+      {activeStep <= 6 && (
+        <MobileStepper
+          variant="dots"
+          steps={7}
+          position="static"
+          activeStep={activeStep}
+          sx={{ minWidth: 400 }}
+          nextButton={
+            <Button size="small" onClick={handleNext}>
+              {activeStep === 6 ? "Submit" : "Next"}
+              {theme.direction === "rtl" ? (
+                <KeyboardArrowLeft />
+              ) : (
+                <KeyboardArrowRight />
+              )}
+            </Button>
+          }
+          backButton={
+            <Button
+              size="small"
+              onClick={handleBack}
+              disabled={activeStep === 0}
+            >
+              {theme.direction === "rtl" ? (
+                <KeyboardArrowRight />
+              ) : (
+                <KeyboardArrowLeft />
+              )}
+              Back
+            </Button>
+          }
+        />
+      )}
     </Container>
   );
 };
