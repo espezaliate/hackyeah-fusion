@@ -47,6 +47,9 @@ const Layout: React.FC<ILayout> = ({ children }) => {
           <Button>
             <NavLink to="/table">Analysis</NavLink>
           </Button>
+          <Button>
+            <NavLink to="/questionnaire">Questionnaire</NavLink>
+          </Button>
         </TopBarContainer>
       </TopBar>
       <Box mt={14}>{children}</Box>
