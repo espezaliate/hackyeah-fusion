@@ -60,7 +60,7 @@ const articlesDB = [
     title: "Sun Fusion Organization",
     image: SunFusion,
     link: "https://zapenergyinc.catsone.com/careers/",
-    body: "Sun Fusion Organization is direction proposition to form project < to startup organization, with reason for existence is to develop probabilities evaluating database-calcuating system, collecting, evaluating and ranking teams; individuals; actions; technologies, according to their possible causal efficiencies, to cause speed ups in transitions to fusion energy generations and to implement this database-causality-evaluating system in actions and provide as a product and service to financial funds and stakeholders interested in. Email: pucek.krystof@gmail.com Phone: 00 420 736 480 844",
+    body: "Sun Fusion Organization project is being developed to cause fusion energy generations to become closer to this moment in time. We are developing a comprehensive evaluative database of individuals, teams, and projects with the highest powers to cause fusion generations. You are welcome to contact us at: soulofartificialintelligence@gmail.com ; 00 420 736 480 844.",
   },
 ];
 
